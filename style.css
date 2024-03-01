@@ -1,0 +1,59 @@
+#Forms{
+    color: white;
+    background-color: rgb(48, 35, 35) ;
+}
+
+h1{
+    color: cornsilk;
+}
+
+#Tables{
+    color: white;
+    background-color: rgb(48, 35, 35) ;
+
+}
+
+
+#links{
+    color: white;
+    background-color: rgb(48, 35, 35) ;
+}
+
+body{
+    color: cornsilk;
+    background-color: rgb(65, 82, 99);
+}
+
+#Images{
+    color: white;
+    background-color: rgb(48, 35, 35) ;
+}
+
+#List{
+    color: white;
+    background-color: rgb(48, 35, 35) ;
+   
+
+}
+
+#Textformat{
+    color: white;
+    background-color: rgb(48, 35, 35) ;
+}
+#doc{
+    color: white;
+    background-color: rgb(48, 35, 35) ;
+    
+}
+
+
+.lit{
+
+    max-width: 700px;
+    width: 100%;
+    margin:auto;
+    display:flex;
+    align-content: center;
+    justify-content: center;
+
+}
